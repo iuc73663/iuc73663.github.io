@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: Lora;
+}
+
+.row {
+  background-color: #323232;
+}
+
+#headerLeft{
+    color: white;
+}
+
+#headerLeft h5 {
+  color: #ffc981;
+}
+
+#headerMid{
+  color: #ffc981;
+  text-align: right;
+  position: relative;
+}
+
+#headerRight {
+  color: white;
+}
