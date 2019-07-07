@@ -98,13 +98,13 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  text-shadow: 0 0 4px #FFFFFF, 0 0 1px #000000;
 }
 
 .masthead h1 {
-  font-size: 4rem;
+  font-size: 8rem;
   margin: 0;
   padding: 0;
-  color:white;
 }
 
 @media (min-width: 992px) {
