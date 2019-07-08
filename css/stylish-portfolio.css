@@ -127,7 +127,7 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
-  background: #ABB2B9;
+  background: #939393;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -334,7 +334,7 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #ABB2B9 !important;
+  background-color: #939393 !important;
   border-color: #000000 !important;
   color: #fff !important;
 }
@@ -366,7 +366,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #939393 !important;
 }
 
 .text-primary {
