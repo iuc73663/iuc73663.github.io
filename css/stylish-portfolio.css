@@ -98,7 +98,7 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  text-shadow: 0 0 4px #FFFFFF, 0 0 1px #000000;
+  /* text-shadow: 0 0 4px #FFFFFF, 0 0 1px #000000;*/
 }
 
 .masthead h1 {
@@ -127,7 +127,7 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
-  background: #1D809F;
+  background: #ABB2B9;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -334,8 +334,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #ABB2B9 !important;
+  border-color: #000000 !important;
   color: #fff !important;
 }
 
